@@ -6,7 +6,9 @@ public class Animal {
 	public static void main(String[] args) {
 		Cat c = new Cat();
 		c.giveName();
-		
+		ввввйцвцйв
+			алцджалжуцал
+			алзуцлазщуцлазщуцлацу
 		Kitten v = null;
 		
 		Dog a = new Dog();
